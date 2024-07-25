@@ -27,7 +27,10 @@ $ git commit -m "added 2nd file "
 $ git push origin new
 
 $ git log
+
 $ git checkout main
+
 $  git cherry-pick 64b7ed10c6af33fb42c1b4e9617dac217146e4f9
+
 $ git push origin main
 
